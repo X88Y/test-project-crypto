@@ -2,7 +2,7 @@
 
 ### Prerequisites
 Ensure you have the following installed:
-- Node.js (>= 14.x)
+- Node.js (>= 19.x)
 - Docker (optional for containerization)
 - Web3 wallet (MetaMask)
 
